@@ -1,0 +1,7 @@
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\test.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\test.pdb
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\testProject.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\testProject.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.pdb

@@ -1,0 +1,7 @@
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\proximity_placement.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\proximity_placement.pdb
+C:\Users\Philipp\Desktop\component_00\fold\obj\Debug64\enron_processor.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\component_00\fold\obj\Debug64\proximity_placement.Properties.Resources.resources
+C:\Users\Philipp\Desktop\component_00\fold\obj\Debug64\enron_processor.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\component_00\fold\obj\Debug64\proximity_placement.dll
+C:\Users\Philipp\Desktop\component_00\fold\obj\Debug64\proximity_placement.pdb

@@ -1,0 +1,2 @@
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\obj\Debug64\vanillaProject.csprojResolveAssemblyReference.cache
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\obj\Debug64\vanillaProject.csproj.GenerateResource.Cache

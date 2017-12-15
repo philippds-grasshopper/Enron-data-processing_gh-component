@@ -1,0 +1,12 @@
+U:\minimalSurface\minimalSurface\obj\Debug64\minimalSurface.csprojResolveAssemblyReference.cache
+U:\minimalSurface\minimalSurface\obj\Debug64\minimalSurface.dll
+U:\minimalSurface\minimalSurface\obj\Debug64\minimalSurface.pdb
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\x64\libiomp5md.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\x64\MathNet.Numerics.MKL.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\x86\libiomp5md.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\x86\MathNet.Numerics.MKL.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\minimalSurface.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\minimalSurface.pdb
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\curveOnSphere\minimalSurface\obj\Debug64\minimalSurface.csprojResolveAssemblyReference.cache
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\curveOnSphere\minimalSurface\obj\Debug64\minimalSurface.dll
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\curveOnSphere\minimalSurface\obj\Debug64\minimalSurface.pdb

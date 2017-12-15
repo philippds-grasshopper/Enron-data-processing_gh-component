@@ -1,0 +1,13 @@
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\minimalSurface.dll
+C:\Users\Mathias.F\AppData\Roaming\Grasshopper\Libraries\minimalSurface.pdb
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\fold\obj\Debug64\minimalSurface.Properties.Resources.resources
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\fold\obj\Debug64\vanillaProject.csproj.GenerateResource.Cache
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\fold\obj\Debug64\minimalSurface.dll
+\\zaha-hadid.com\Data\Projects\1453_CODE\1453___research\res_mathias\emptyProject\fold\obj\Debug64\minimalSurface.pdb
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\vanillaProject.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\vanillaProject.csproj.GenerateResource.Cache
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\test.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\test.pdb
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\test.pdb
